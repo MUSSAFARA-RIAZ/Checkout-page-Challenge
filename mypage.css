@@ -1,0 +1,686 @@
+#section {
+    display: grid;
+    grid-template-columns: 300px 300px;
+    margin-left: 80px;
+    padding: 0px;
+
+}
+
+#img1 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: absolute;
+    left: 100px;
+    top: 156px;
+
+}
+
+input {
+    padding: 10px;
+    display: block;
+    border-radius: 12px;
+    border: 1px solid black;
+
+    width: 350px;
+    height: 20px;
+
+}
+
+::placeholder {
+    position: absolute;
+    left: 33px;
+
+}
+
+#img2 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: absolute;
+    left: 98px;
+    top: 230px;
+
+}
+
+#req2 {
+    margin-top: 13px;
+}
+
+#req4 {
+    margin-top: 13px;
+
+}
+
+#req5 {
+    margin-top: 13px;
+
+}
+
+#img3 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: absolute;
+    left: 96px;
+    top: 350px;
+}
+
+#img4 {
+    width: 32px;
+    height: 25px;
+    display: inline;
+    position: absolute;
+    left: 89px;
+    top: 418px;
+
+}
+
+#img5 {
+    width: 32px;
+    height: 25px;
+    display: inline;
+    position: absolute;
+    left: 89px;
+    top: 492px;
+
+
+}
+
+#img6 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: absolute;
+    left: 97px;
+    top: 564px;
+
+}
+
+#img7 {
+    width: 25px;
+    z-index: 1;
+
+    height: 25px;
+    display: inline;
+    position: absolute;
+    left: 300px;
+    top: 565px;
+
+}
+
+#combine-req {
+    display: grid;
+    grid-template-columns: 189px 79px;
+    margin-top: 10px;
+
+
+}
+
+#Country {
+    width: 175px;
+    height: 20px;
+    padding: 10px;
+    display: block;
+    border-radius: 12px;
+    border: 1px solid black;
+
+}
+
+#Postal {
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    display: block;
+    border-radius: 12px;
+    border: 1px solid black;
+    position: relative;
+    top: 1px;
+
+    margin-left: 20px;
+
+}
+
+#set-label {
+    position: relative;
+    left: 30px;
+
+}
+
+#check {
+    left: 30px;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 22px;
+    left: -28px;
+    border: 1px solid black;
+
+
+}
+
+#btn {
+    position: relative;
+    left: 290px;
+    border: 1px solid orangered;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    border-radius: 16px;
+
+}
+
+#sec1 {
+    display: grid;
+    grid-template-columns: 240px 500px;
+    grid-template-rows: 200px 100px;
+
+    margin-top: 30px;
+    background-color: gray;
+    box-sizing: border-box;
+
+
+
+}
+
+#price p {
+    display: inline;
+    margin-top: 0px;
+    padding: 0px;
+
+}
+
+#img img {
+
+    position: relative;
+    left: 90px;
+    height: 135px;
+    width: 175px;
+    left: 120px;
+    top: 14px;
+    border-radius: 16px;
+}
+
+#p1 {
+    color: orangered;
+
+}
+
+#btn2 {
+    width: 70px;
+    height: 10px;
+    position: relative;
+    text-align: center;
+    padding-left: 5px;
+
+
+
+}
+
+#last-btn1 {
+    position: relative;
+    top: -27px;
+    left: 7px;
+
+
+}
+
+#last-btn2 {
+    position: relative;
+    top: -27px;
+    left: 20px;
+
+
+}
+
+#button-sec {
+    margin-top: 10px;
+}
+
+#side-sec {
+    display: grid;
+    grid-template-columns: 180px 100px;
+    width: 380px;
+    height: 420px;
+    border: 3px solid green;
+    background-color: rgb(202, 197, 197);
+    margin-top: 130px;
+
+}
+
+#section {
+    display: grid;
+    grid-template-columns: 500px 400px;
+    margin-left: 80px;
+    padding: 0px;
+
+
+}
+
+#ist-photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+
+#second-photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 16px;
+    margin-top: 10px;
+
+
+}
+
+#txt {
+    padding: 0px;
+}
+
+#para1 {
+    display: inline;
+    color: orangered;
+
+
+}
+
+#txt1 {
+    margin-top: -20px;
+}
+
+#para2 {
+    display: inline;
+}
+
+#Shipping {
+    position: relative;
+    top: -30px;
+    left: 10px;
+}
+
+#price {
+    position: relative;
+    top: -30px;
+    left: 270px;
+}
+
+#third-sec input {
+    margin-top: 10px;
+    border-left: none;
+    border-right: none;
+    opacity: 0.4;
+
+}
+
+#Total {
+    position: relative;
+    left: -90px;
+    top: 20px;
+
+}
+
+#total {
+    position: relative;
+
+    left: 320px;
+    top: 5px;
+}
+
+@media only screen and (max-width: 400px) {
+    h1{
+        display: block;
+
+    }
+    #side-sec{
+        position: absolute;
+        left: 0px;
+        top: -50px;
+        right: 100px;
+        width: 270px;
+        height: 310px;
+        border: 3px solid green;
+    background-color: rgb(202, 197, 197);
+    margin-left: 30px;
+    
+
+
+    }
+    #ist-photo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    left: 20px;
+    top: 15px;
+
+
+}
+
+#second-photo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+  margin-top: -20px;
+  position: relative;
+  top: 15px;
+  left: 20px;
+
+
+}
+#txt {
+    position: relative;
+    top: -5px;
+    left: -40px;
+    padding: -10px;
+}
+#txt1 {
+    position: relative;
+    left: -35px;
+
+}
+#para{
+   position: relative;
+   top: 5px;
+   left: 10px;
+
+}
+#first-head{
+   position: relative;
+   top: 1px;
+   left: -10px;
+
+
+}
+#sec-head{
+   position: relative;
+   top: 1px;
+   left:-10px;
+}
+#para1{
+   position: relative;
+   left: -25px;
+   top: -17px;
+}
+#para2{
+position: relative;
+   left: -22px;
+   top: -17px;
+
+}
+
+#last-btn1 {
+    position: relative;
+    top: -22px;
+    left: 4px;
+    border: 1px solid transparent;
+    font-weight: bold;
+
+
+
+}
+
+#last-btn2 {
+    font-weight: bold;
+    position: relative;
+    border: 1px solid transparent;
+    top: -22px;
+    left: 25px;
+
+
+}
+
+#button-sec {
+    position: relative;
+    left: -10px;
+    top: -10px;
+}
+#Shipping {
+    position: relative;
+    top: -49px;
+    left: 10px;
+}
+
+#price {
+    position: relative;
+    top: -49px;
+    left:160px;
+}
+
+#third-sec input {
+   position: relative;
+   top: -29px;
+
+    border-left: none;
+    border-right: none;
+    opacity: 0.4;
+
+}
+
+#Total {
+    position: relative;
+    left:-86px;
+    top: -23px;
+
+}
+
+#total {
+    position: relative;
+
+    left: 213px;
+    top: -39px;
+}
+#last-text{
+    width: 250px;
+    height: 5px;
+
+}
+#hd{
+    position: relative;
+    top: 310px;
+    left: -70px;
+    font-size: 25px;
+  }
+  #req1{
+      position: relative;
+      top: 300px;
+      left: -70px;
+
+
+  }
+  #req2{
+      position: relative;
+      top: 300px;
+      left: -70px;
+
+
+  }
+  #req3{
+      position: relative;
+      left: -70px;
+      top: 300px;
+  }
+ 
+  ::placeholder {
+    position: absolute;
+    left: 33px;
+
+}
+
+#img2 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: relative;
+    left: -32px;
+    top:30px;
+
+}
+
+
+
+#req4 {
+    position: relative;
+      left: -70px;
+      top: 310px;
+    
+
+}
+
+#req5 {
+    position: relative;
+      left: -70px;
+      top: 320px;
+
+}
+#req6 {
+    position: relative;
+      left: -70px;
+      top: 330px;
+
+}
+
+
+
+#combine-req {
+    display: grid;
+    grid-template-columns: 100px 50px;
+   
+
+
+}
+
+#Country {
+    width: 130px;
+    height: 15px;
+    padding: 7px;
+    display: block;
+    border-radius: 12px;
+    border: 1px solid black;
+
+}
+
+#Postal {
+    width: 130px;
+    height: 15px;
+   
+    display: block;
+    border-radius: 12px;
+    border: 1px solid black;
+    position: relative;
+    top: 280px;
+    left: -40px;
+
+    
+    text-align: center;
+
+}
+
+#set-label {
+    position: relative;
+    left: -10px;
+    top: 310px;
+    
+
+}
+
+
+input {
+    padding: 7px;
+    display: block;
+    border-radius: 10px;
+    border: 1px solid black;
+
+    width: 280px;
+    height: 15px;
+
+}
+#third-head-main{
+    position: relative;
+    top: 300px;
+    left: -70px;
+}
+#check-btn{
+    position: relative;
+    top: 304px;
+    left: -63px;      
+}
+#btn {
+    position: relative;
+    left: 159px;
+    border: 1px solid orangered;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    width: 70px;
+    height: 40px;
+    top: 319px;
+    border-radius: 10px;
+
+}
+#img1 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: absolute;
+    left: 10px;
+    top: 25px;
+
+}
+
+
+
+#img3 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: absolute;
+    left: 9px;
+    top:25px;
+}
+
+#img4 {
+    width: 32px;
+    height: 25px;
+    display: inline;
+    position: absolute;
+    left: 2px;
+    top: 20px;
+
+}
+
+#img5 {
+    width: 32px;
+    height: 25px;
+    display: inline;
+    position: absolute;
+    left: 4px;
+    top: 19px;
+
+
+}
+
+#img6 {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    position: absolute;
+    left: 7px;
+    top: 23px;
+
+}
+
+#img7 {
+    width: 25px;
+    z-index: 1;
+
+    height: 25px;
+    display: inline;
+    position: relative;
+    left:-15px;
+    top: 317px;
+
+}
+
+}
